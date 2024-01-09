@@ -9,6 +9,6 @@ This is a repository for *Machine Learning for Quantitative Finance* topic
 - Cudnn == 8.0
 - CUDA == 11.0
 - pandas
-- numpy == 1.23
+- numpy == 1.23.5
 - scipy
 
