@@ -1,6 +1,6 @@
 # Lu(23)'s implementations
 
-The implementation of Lu(23)'s methodology and results is documented in Section 6 of my report.  
+The relication of Lu(23)'s methodology and results is documented in Section 6 of my report.  
 
 
 ## How to run
