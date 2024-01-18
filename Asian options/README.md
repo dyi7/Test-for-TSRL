@@ -1,6 +1,6 @@
 # Applying Lu(23)'s method on Asian options
 
-Pricing **Asian options of a basket of 𝑛 stocks** using Lu(23)'s method is documented in Section 2 of my report.
+Pricing **Asian options of a basket of 𝑛 stocks** using Lu(23)'s method is documented in Section 7 of my report.
 
 
 ## How to run
