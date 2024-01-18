@@ -2,11 +2,11 @@
 
 In my final report, we show the pricing of:
 
-  - **different barrier options**, i.e., Up-and-in, Up-and-out, Down-and-in, Down-and-out, using Lu(23)'s method in Section 3.1, 
+  - **different barrier options**, i.e., Up-and-in, Up-and-out, Down-and-in, Down-and-out, using Lu(23)'s method in Section 8.1, 
 
-  - **up-and-out put option with different 𝑋0** in Section 3.2, and 
+  - **up-and-out put option with different 𝑋0** in Section 8.2, and 
 
-  - **American up-and-out put option** in Section 3.3.
+  - **American up-and-out put option** in Section 8.3.
 
 
 ## How to run
