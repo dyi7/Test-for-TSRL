@@ -1,7 +1,7 @@
 # Lu(23)'s implementations
 
 The implementation of Lu(23)'s methodology and results is documented in Section 5 of my report.  
-The codes are in path "./Lu/"
+The codes are in path "/Lu/"
 
 ## How to test
 #### For Lu(23)'s "*One dimensional pure jump process*", testing files involve:
