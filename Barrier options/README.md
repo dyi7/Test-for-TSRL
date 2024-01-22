@@ -8,7 +8,7 @@ In Section 7 of my final report, we show the pricing of:
 
   - **American up-and-out put option** in Section 7.4.
 
-The codes are in path "./Barrier options/"
+The codes are in path "/Barrier options/"
 
 
 ## How to test
