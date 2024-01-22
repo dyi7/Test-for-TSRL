@@ -2,7 +2,7 @@
 
 Pricing **Asian options of a basket of 𝑛 stocks** using Lu(23)'s method is documented in Section 6 of my report.
 
-The codes are in path "./Asian options/"
+The codes are in path "/Asian options/"
 
 ## How to test
 #### For "*Asian options of a basket of 100 stocks*", testing files involve:
